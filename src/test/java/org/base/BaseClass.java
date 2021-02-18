@@ -8,6 +8,10 @@ public class BaseClass {
 	private void geturl() {
 		System.out.println("Facebook");
 			}
+	private void getuser() {
+	  System.out.println("Harish");
+
+	}
 	
 }
 

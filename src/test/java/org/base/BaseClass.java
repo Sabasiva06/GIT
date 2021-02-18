@@ -14,6 +14,10 @@ public class BaseClass {
 		System.out.println("method is added");
 		}
 	
-	
+	//created by guna
+	public void gettext() {
+		System.out.println("gettext");
+
+	}
 }
 

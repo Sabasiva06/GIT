@@ -6,5 +6,10 @@ public class BaseClass {
 		System.out.println();
 	}
 	
+	public void method_1() {
+		// created by priya
+		System.out.println("Method 1 passed");
+	}
+	
 }
 
